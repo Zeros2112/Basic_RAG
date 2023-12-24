@@ -1,5 +1,5 @@
-# Basic RAG System with Flask and Sentence Window Indexing
-This repository contains code for building a basic Retrieval-Augmented Generation (RAG) system using Flask and Sentence Window Indexing.
+# RAG System with Flask
+This repository contains code for building a Retrieval-Augmented Generation (RAG) system using Flask.
 
 ## Overview
 The system allows users to upload a document, build a Sentence Window Index, and query the system for responses. It utilizes Flask for the web interface and integrates the OpenAI language model for document processing.
