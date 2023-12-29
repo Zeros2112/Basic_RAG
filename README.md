@@ -4,6 +4,9 @@ This repository contains code for building a Retrieval-Augmented Generation (RAG
 ## Overview
 The system allows users to upload a document, build a Sentence Window Index, and query the system for responses. It utilizes Flask for the web interface and integrates the OpenAI language model for document processing.
 
+## Demo
+[Google_drive](https://drive.google.com/drive/folders/1JlqvgNx-r2T7ajBxiC8EZAFV5M46K5yG?usp=sharing)
+
 ## Components
 1. Flask Web Interface
 A web interface created using Flask for user interaction.
